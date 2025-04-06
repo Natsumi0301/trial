@@ -1,0 +1,8 @@
+streamlit
+pandas
+random
+time
+folium
+requests
+streamlit.components.v1
+streamlit_folium
